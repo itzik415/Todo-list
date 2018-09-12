@@ -1,0 +1,18 @@
+
+/*-------ABSTRACTS-------*/
+@import "abstracts/variables";
+
+/*-------BASE-------*/
+@import "base/animations";
+@import "base/base-style";
+
+/*-------COMPONENTS-------*/
+@import "components/form-password";
+@import "components/form-confirm-password";
+@import "components/form-email";
+@import "components/login-box";
+@import "components/register-box";
+
+/*-------PAGES-------*/
+@import "pages/login-page";
+@import "pages/register-page";
